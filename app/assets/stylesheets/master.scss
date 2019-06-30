@@ -1,1 +1,103 @@
 @import "bootstrap";
+
+body {
+    background-color: #fafafa;
+}
+
+.top-nav {
+    background-color: white;
+    border-bottom-color: #edeeee;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    height: 70px;
+    padding: 15px;
+}
+
+.top-nav .add a {
+    font-weight: bold;
+    color: #125688;
+    font-size: 16px;
+    padding-left: 8px;
+  }
+
+.brand {
+    color: #125688;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+  }
+
+  .card {
+    background-color: #fff;
+    border-radius: .25rem;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+    border: 1px solid #e8e8e8;
+    margin-top: 40px;
+    padding: 0;
+  }
+
+  .handle {
+    margin: 10px;
+    color: #125688;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  .card p, .card .message{
+      font-size: 18px;
+      margin: 20px;
+  }
+
+  .card.form {
+    padding: 20px;
+  }
+
+  label {
+    font-size: 18px;
+  }
+
+  input { 
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .my-btn {
+    background-color: #125688;
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    color: white;
+    margin-top: 10px;
+  }
+
+  .rmbr-me {
+    margin-left: 18px;
+    margin-top: 5px;
+  }
+
+  .rmbr-me label {
+    margin-left: -15px;
+    margin-top: -2px;
+  }
+
+  .gram-actions {
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-left: auto;
+  }
+
+  .comments {
+    padding: 20px;
+  }
+
+  .comment {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+
+  .comment-handle {
+    color: #125688;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
