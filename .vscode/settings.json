@@ -1,4 +1,7 @@
 {
   "editor.autoClosingBrackets": "always",
-  "editor.autoClosingQuotes": "always"
+  "editor.autoClosingQuotes": "always",
+  "auto-close-tag.fullMode": true,
+  "css.lint.boxModel": "warning",
+  "dash.exactDocset": true
 }
